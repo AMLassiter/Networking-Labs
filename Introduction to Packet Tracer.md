@@ -2,16 +2,14 @@
 
 **Course:** CTS1133C – Software Configuration  
 **Module:** 8, Lab 7 – Part 1  
-**Environment:** NETLAB+ (Windows 10 VM) → Cisco Packet Tracer  
+**Environment:** Cisco Packet Tracer (Standalone)  
 **Objective:** Build a small wired network topology using a router, two switches, PCs, and printers. Learn the Packet Tracer interface, device placement, and cabling fundamentals.
 
 ---
 
 ## Prerequisites
 
-- NETLAB+ login credentials (assigned by instructor)
-- Access to the Windows 10 NETLAB+ virtual machine
-- Cisco Packet Tracer installed (available on the VM desktop)
+- Cisco Packet Tracer installed on your computer (free with a Cisco Networking Academy account)
 
 ---
 
@@ -19,9 +17,8 @@
 
 ### Step 1 – Log in to NETLAB+ and open Packet Tracer
 
-1. Log in to **NETLAB+** using your assigned User ID and the password you created.
-2. Access the **Windows 10** computer within the NETLAB+ environment.
-3. **Double-click** the Cisco Packet Tracer shortcut on the desktop. The application opens to a blank workspace.
+1. Open **Cisco Packet Tracer** on your computer. Log in with your Cisco Networking Academy credentials or select **Guest Login** (available after a few seconds).
+2. The application opens to a blank workspace.
 
 > **📸 Screenshot Suggestion:** Capture the Packet Tracer window in its default state showing the blank workspace, toolbar, and device selection panel in the bottom-left corner.
 
