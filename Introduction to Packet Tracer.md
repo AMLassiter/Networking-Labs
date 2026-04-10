@@ -58,6 +58,8 @@
 > The Cisco 1841 is an Integrated Services Router (ISR) commonly used in small-to-medium networks. In this lab, it serves as the **central device connecting two separate network segments** (one on each side). Routers operate at **Layer 3 (Network Layer)** of the OSI model — they make forwarding decisions based on IP addresses. Unlike switches, routers can connect *different* networks and route traffic between them. Each router interface (e.g., FastEthernet0/0 and FastEthernet0/1) connects to a separate network segment, creating distinct broadcast domains.
 
 > **📸 Screenshot Suggestion:** Capture the workspace showing Router0 placed in the center.
+>
+![image alt](https://github.com/AMLassiter/Networking-Labs/blob/ba9284a4e822ff7c68cef76a5fdc3965d54dc1cb/IPT%20Step%2010.png)
 
 ### Step 5 – Place the switches
 
