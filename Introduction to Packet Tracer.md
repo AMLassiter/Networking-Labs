@@ -1,4 +1,4 @@
-# Introduction to Packet Tracer (NETLAB+)
+# Introduction to Packet Tracer (Cisco Packet Tracer)
 
 **Course:** CTS1133C – Software Configuration  
 **Module:** 8, Lab 7 – Part 1  
