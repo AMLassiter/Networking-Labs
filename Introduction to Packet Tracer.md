@@ -180,6 +180,8 @@ Your topology should now show:
 
 > **📸 Screenshot Suggestion:** Capture the **completed topology with all cable indicators showing green**. This is the final deliverable screenshot for this lab.
 
+![image alt](https://github.com/AMLassiter/Networking-Labs/blob/a611054ad245259ebcea0884109bb14387b91db1/IPT%20Step%2033.png)
+
 ---
 
 ## Summary
