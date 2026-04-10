@@ -73,6 +73,8 @@
 > We use **two switches** to simulate two separate departments or areas within an organization. Each switch serves as a central connection point for its group of end devices (PCs and printers). The router sits between them to route traffic from one network segment to the other. This is a classic **router-on-a-stick** or **inter-VLAN routing** foundation topology.
 
 > **📸 Screenshot Suggestion:** Capture the workspace showing Switch0, Router0, and Switch1 arranged left to right.
+>
+![image alt](https://github.com/AMLassiter/Networking-Labs/blob/ac226c3fd379138e81eb9a8bf065e2372bf6c651/IPT%20Step%2013.png)
 
 ### Step 6 – Place end devices (PCs and printers)
 
