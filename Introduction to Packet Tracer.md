@@ -139,6 +139,8 @@ Your topology should now show:
 | Printer1 | FastEthernet0 | Switch1 | FastEthernet0/3 |
 
 > **📸 Screenshot Suggestion:** Capture the topology showing all end devices cabled to their respective switches (before router cabling). The cable endpoint dots will be green on the switch side (ports auto-enable) and green on the end device side.
+>
+![image alt](https://github.com/AMLassiter/Networking-Labs/blob/397d2f41358a2c008595dbbec6a1c3701d2ea651/IPT%20Step%2025.png)
 
 ### Step 10 – Cable switches to the router
 
