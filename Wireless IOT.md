@@ -1,4 +1,4 @@
-# Building a Wireless and IoT Network in Packet Tracer (NETLAB+)
+# Building a Wireless and IoT Network in Packet Tracer (Cisco Packet Tracer)
 
 **Course:** CTS1133C – Software Configuration  
 **Module:** 10, Labs – Part 3  
