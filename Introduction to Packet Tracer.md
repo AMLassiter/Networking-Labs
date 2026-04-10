@@ -94,6 +94,8 @@ Your topology should now show:
 > PCs and printers are **end devices** (also called hosts). They generate and consume network traffic. In a real network, these would be workstations, servers, printers, IP phones, etc. Each end device has at least one **network interface** (typically FastEthernet0) that connects to a switch port. End devices need an **IP address**, **subnet mask**, and **default gateway** to communicate across network segments — but in this introductory lab, we're only building the physical topology. IP addressing comes in a later module.
 
 > **📸 Screenshot Suggestion:** Capture the full topology with all devices placed (before cabling).
+>
+![image alt](https://github.com/AMLassiter/Networking-Labs/blob/47aa0a57a5c812b6f2ee2e5cfbfa3e9966c367ca/IPT%20Step%2019.png)
 
 ---
 
