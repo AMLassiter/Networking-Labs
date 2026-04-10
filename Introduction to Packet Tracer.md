@@ -21,6 +21,8 @@
 2. The application opens to a blank workspace.
 
 > **📸 Screenshot Suggestion:** Capture the Packet Tracer window in its default state showing the blank workspace, toolbar, and device selection panel in the bottom-left corner.
+> https://github.com/AMLassiter/Networking-Labs/blob/db0843db177708923f97fd05e3c2209bff2b73a9/IPT%20Step%201.png
+> 
 
 ### Step 2 – Identify the Select tool
 
