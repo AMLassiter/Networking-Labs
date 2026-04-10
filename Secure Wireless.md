@@ -1,4 +1,4 @@
-# Build a Secure Wireless Network in Packet Tracer (NETLAB+)
+# Build a Secure Wireless Network in Packet Tracer (Cisco Packet Tracer)
 
 **Course:** CTS1133C – Software Configuration  
 **Module:** 11, Labs – Part 2  
